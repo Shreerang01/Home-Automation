@@ -71,7 +71,7 @@ For Actual Implementation
     6. Note the Obeservations
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![Circuit Diagram](https://github.com/Shreerang01/Home-Automation/assets/113919844/6ea9f931-d45d-422e-aff2-a76356a7d161)
 ## Usage
 
 ### Setting up the Parking Sensor System
